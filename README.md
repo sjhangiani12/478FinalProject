@@ -1,4 +1,4 @@
-# 478FinalProject
+# The UW Marijuana Study
 
 ### Project Description
 This is a written, non-technical description of your project. Depending on the specifics of your project, you should outline the answers to these (and perhaps other) questions:
